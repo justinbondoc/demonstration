@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online Output/HTML5 - Top Navigation"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2017-09-20T10:51:58.8223459-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/User Guide A"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2017-09-20T10:52:07.3441978-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/User Guide B"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2017-09-20T10:52:04.1382348-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word/Word"
+      Type="Word"
+      Build="false" />
+  </Targets>
+</CatapultBatchTarget>
